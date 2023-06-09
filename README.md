@@ -1,3 +1,4 @@
+#npm install
 step 1: npm run build
 step 2 nodemon server.js
 database url
